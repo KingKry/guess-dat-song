@@ -1,0 +1,634 @@
+{
+  "songs": [
+    {
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "qoa": "Dominic Fike - Babydoll.qoa"
+    },
+    {
+      "title": "luther",
+      "artist": "Kendrick Lamar",
+      "qoa": "Kendrick Lamar - luther.qoa"
+    },
+    {
+      "title": "What's Up",
+      "artist": "4 Non Blondes",
+      "qoa": "4 Non Blondes - What's Up.qoa"
+    },
+    {
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "qoa": "Zara Larsson - Lush Life.qoa"
+    },
+    {
+      "title": "Maui Wowie",
+      "artist": "Kid Cudi",
+      "qoa": "Kid Cudi - Maui Wowie.qoa"
+    },
+    {
+      "title": "WE ON GO",
+      "artist": "BIA",
+      "qoa": "BIA - WE ON GO.qoa"
+    },
+    {
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga, Bruno Mars",
+      "qoa": "Lady Gaga, Bruno Mars - Die With A Smile.qoa"
+    },
+    {
+      "title": "Pretty Little Baby",
+      "artist": "Connie Francis",
+      "qoa": "Connie Francis - Pretty Little Baby.qoa"
+    },
+    {
+      "title": "Mac Miller",
+      "artist": "Cinderella",
+      "qoa": "Cinderella - Mac Miller.qoa"
+    },
+    {
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "qoa": "Alex Warren - Ordinary.qoa"
+    },
+    {
+      "title": "Betcha Can't",
+      "artist": "Cash Cobain",
+      "qoa": "Cash Cobain - Betcha Can't.qoa"
+    },
+    {
+      "title": "La La La",
+      "artist": "Naughty Boy, Sam Smith",
+      "qoa": "Naughty Boy, Sam Smith - La La La.qoa"
+    },
+    {
+      "title": "FIGHTER",
+      "artist": "ZLATA OGNEVICH",
+      "qoa": "ZLATA OGNEVICH - FIGHTER.qoa"
+    },
+    {
+      "title": "DANCE",
+      "artist": "Slayyyter",
+      "qoa": "Slayyyter - DANCE.qoa"
+    },
+    {
+      "title": "Delicious",
+      "artist": "Kash Kyla",
+      "qoa": "Kash Kyla - Delicious.qoa"
+    },
+    {
+      "title": "Michael Jackson",
+      "artist": "Billie Jean",
+      "qoa": "Billie Jean - Michael Jackson.qoa"
+    },
+    {
+      "title": "BAEWATCH",
+      "artist": "Yung Gravy",
+      "qoa": "Yung Gravy - BAEWATCH.qoa"
+    },
+    {
+      "title": "LIL BIT MORE",
+      "artist": "MAJOR NINE",
+      "qoa": "MAJOR NINE - LIL BIT MORE.qoa"
+    },
+    {
+      "title": "I Knew It, I Knew You [from Toy Story 5]",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - I Knew It, I Knew You [from Toy Story 5].qoa"
+    },
+    {
+      "title": "Overdone",
+      "artist": "Hellhills",
+      "qoa": "Hellhills - Overdone.qoa"
+    },
+    {
+      "title": "Katy Perry",
+      "artist": "The One That Got Away",
+      "qoa": "The One That Got Away - Katy Perry.qoa"
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "qoa": "Olivia Dean - So Easy (To Fall In Love).qoa"
+    },
+    {
+      "title": "4 Raws Remix",
+      "artist": "EsDeeKid",
+      "qoa": "EsDeeKid - 4 Raws Remix.qoa"
+    },
+    {
+      "title": "High or Sober",
+      "artist": "POS",
+      "qoa": "POS - High or Sober.qoa"
+    },
+    {
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "qoa": "The Police - Every Breath You Take.qoa"
+    },
+    {
+      "title": "Hunnits & Ones",
+      "artist": "KillaMoe",
+      "qoa": "KillaMoe - Hunnits & Ones.qoa"
+    },
+    {
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "qoa": "Olivia Rodrigo - drop dead.qoa"
+    },
+    {
+      "title": "Now Or Never (heavenly audio)",
+      "artist": "TKANDZ",
+      "qoa": "TKANDZ - Now Or Never (heavenly audio).qoa"
+    },
+    {
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "qoa": "Olivia Rodrigo - the cure.qoa"
+    },
+    {
+      "title": "Raindance",
+      "artist": "Dave",
+      "qoa": "Dave - Raindance.qoa"
+    },
+    {
+      "title": "New Religion (Official Visual)",
+      "artist": "Bebe Rexha & Faithless",
+      "qoa": "Bebe Rexha & Faithless - New Religion (Official Visual).qoa"
+    },
+    {
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "qoa": "Malcolm Todd - Earrings.qoa"
+    },
+    {
+      "title": "LE SSERAFIM, ILLIT, and KATSEYE 'Iconic by Mistake' (Color Coded Lyrics)",
+      "artist": "Jaeguchi",
+      "qoa": "Jaeguchi - LE SSERAFIM, ILLIT, and KATSEYE 'Iconic by Mistake' (Color Coded Lyrics).qoa"
+    },
+    {
+      "title": "Coconut Water",
+      "artist": "Trim",
+      "qoa": "Trim - Coconut Water.qoa"
+    },
+    {
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "qoa": "STELLA LEFTY - Boston.qoa"
+    },
+    {
+      "title": "PARTY 4 U",
+      "artist": "Charli XCX",
+      "qoa": "Charli XCX - PARTY 4 U.qoa"
+    },
+    {
+      "title": "Golden KPop Demon Hunters",
+      "artist": "Huntrix",
+      "qoa": "Huntrix - Golden KPop Demon Hunters.qoa"
+    },
+    {
+      "title": "Stargazing",
+      "artist": "Myles Smith",
+      "qoa": "Myles Smith - Stargazing.qoa"
+    },
+    {
+      "title": "KATSEYE (캣츠아이) 'Gabriela' (Color Coded Lyrics)",
+      "artist": "Jaeguchi",
+      "qoa": "Jaeguchi - KATSEYE (캣츠아이) 'Gabriela' (Color Coded Lyrics).qoa"
+    },
+    {
+      "title": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "qoa": "Bella Kay - iloveitiloveitiloveit.qoa"
+    },
+    {
+      "title": "BLACKPINK '뛰어(JUMP)' (Color Coded Lyrics)",
+      "artist": "Jaeguchi",
+      "qoa": "Jaeguchi - BLACKPINK '뛰어(JUMP)' (Color Coded Lyrics).qoa"
+    },
+    {
+      "title": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "qoa": "Lil Uzi Vert - What You Saying.qoa"
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "qoa": "RAYE - WHERE IS MY HUSBAND!.qoa"
+    },
+    {
+      "title": "My Moon My Man",
+      "artist": "Feist",
+      "qoa": "Feist - My Moon My Man.qoa"
+    },
+    {
+      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+      "artist": "HYBE LABELS",
+      "qoa": "HYBE LABELS - KATSEYE (캣츠아이) _Animal_ Official MV.qoa"
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "qoa": "Sabrina Carpenter - Espresso.qoa"
+    },
+    {
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "qoa": "Gracie Abrams - That’s So True.qoa"
+    },
+    {
+      "title": "You Broke Me",
+      "artist": "Sierra",
+      "qoa": "Sierra - You Broke Me.qoa"
+    },
+    {
+      "title": "Bye Bye Bye (Deadpool 3 Soundtrack)",
+      "artist": "*NSYNC",
+      "qoa": "_NSYNC - Bye Bye Bye (Deadpool 3 Soundtrack).qoa"
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "qoa": "Billie Eilish - BIRDS OF A FEATHER.qoa"
+    },
+    {
+      "title": "No One",
+      "artist": "Alicia Keys",
+      "qoa": "Alicia Keys - No One.qoa"
+    },
+    {
+      "title": "Falling In love",
+      "artist": "Darin",
+      "qoa": "Darin - Falling In love.qoa"
+    },
+    {
+      "title": "i like the way you kiss me",
+      "artist": "Artemas",
+      "qoa": "Artemas - i like the way you kiss me.qoa"
+    },
+    {
+      "title": "Confess your love",
+      "artist": "Jiandro",
+      "qoa": "Jiandro - Confess your love.qoa"
+    },
+    {
+      "title": "It All Goes",
+      "artist": "Eloise",
+      "qoa": "Eloise - It All Goes.qoa"
+    },
+    {
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - I Just Might.qoa"
+    },
+    {
+      "title": "KATSEYE (캣츠아이) 'Hootie Frutti' Official MV",
+      "artist": "HYBE LABELS",
+      "qoa": "HYBE LABELS - KATSEYE (캣츠아이) 'Hootie Frutti' Official MV.qoa"
+    },
+    {
+      "title": "CHANEL",
+      "artist": "Tyla",
+      "qoa": "Tyla - CHANEL.qoa"
+    },
+    {
+      "title": "bloodstream",
+      "artist": "Alyssa Grace",
+      "qoa": "Alyssa Grace - bloodstream.qoa"
+    },
+    {
+      "title": "KEHLANI",
+      "artist": "Jordan Adetunji",
+      "qoa": "Jordan Adetunji - KEHLANI.qoa"
+    },
+    {
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "qoa": "Benson Boone - Beautiful Things.qoa"
+    },
+    {
+      "title": "On my mind",
+      "artist": "Metito",
+      "qoa": "Metito - On my mind.qoa"
+    },
+    {
+      "title": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "qoa": "Olivia Rodrigo - honeybee.qoa"
+    },
+    {
+      "title": "Love Somebody",
+      "artist": "Morgan Wallen",
+      "qoa": "Morgan Wallen - Love Somebody.qoa"
+    },
+    {
+      "title": "Nasty",
+      "artist": "Tinashe",
+      "qoa": "Tinashe - Nasty.qoa"
+    },
+    {
+      "title": "I RUN",
+      "artist": "HAVEN.",
+      "qoa": "HAVEN. - I RUN.qoa"
+    },
+    {
+      "title": "Loser",
+      "artist": "Tame Impala",
+      "qoa": "Tame Impala - Loser.qoa"
+    },
+    {
+      "title": "Breathe (Olly Alexander)",
+      "artist": "Years And Years",
+      "qoa": "Years And Years - Breathe (Olly Alexander).qoa"
+    },
+    {
+      "title": "Ain't In LA",
+      "artist": "ADÉLA",
+      "qoa": "ADÉLA - Ain't In LA.qoa"
+    },
+    {
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "qoa": "Doechii - DENIAL IS A RIVER.qoa"
+    },
+    {
+      "title": "PUSH 2 START",
+      "artist": "Tyla",
+      "qoa": "Tyla - PUSH 2 START.qoa"
+    },
+    {
+      "title": "EASYKID",
+      "artist": "SHINY",
+      "qoa": "SHINY - EASYKID.qoa"
+    },
+    {
+      "title": "Abracadabra",
+      "artist": "Lady Gaga",
+      "qoa": "Lady Gaga - Abracadabra.qoa"
+    },
+    {
+      "title": "Big Guy",
+      "artist": "Ice Spice",
+      "qoa": "Ice Spice - Big Guy.qoa"
+    },
+    {
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "qoa": "Imogen Heap - Headlock.qoa"
+    },
+    {
+      "title": "Tell Your Girlfriend",
+      "artist": "Lay Bankz",
+      "qoa": "Lay Bankz - Tell Your Girlfriend.qoa"
+    },
+    {
+      "title": "Hide Away",
+      "artist": "Daya",
+      "qoa": "Daya - Hide Away.qoa"
+    },
+    {
+      "title": "Ghetto Love Story",
+      "artist": "BabyChiefDoit",
+      "qoa": "BabyChiefDoit - Ghetto Love Story.qoa"
+    },
+    {
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "qoa": "She & Him - I Thought I Saw Your Face Today.qoa"
+    },
+    {
+      "title": "Soda Pop | K-Pop Demon Hunters Soundtrack",
+      "artist": "Saja Boys",
+      "qoa": "Saja Boys - Soda Pop _ K-Pop Demon Hunters Soundtrack.qoa"
+    },
+    {
+      "title": "Symphony",
+      "artist": "Clean Bandit",
+      "qoa": "Clean Bandit - Symphony.qoa"
+    },
+    {
+      "title": "Pink Lemonade (Str8 Reload)",
+      "artist": "LeoStayTrill",
+      "qoa": "LeoStayTrill - Pink Lemonade (Str8 Reload).qoa"
+    },
+    {
+      "title": "She Knows",
+      "artist": "J. Cole",
+      "qoa": "J. Cole - She Knows.qoa"
+    },
+    {
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "qoa": "Sabrina Carpenter - Please Please Please.qoa"
+    },
+    {
+      "title": "favorite",
+      "artist": "Isabel LaRosa",
+      "qoa": "Isabel LaRosa - favorite.qoa"
+    },
+    {
+      "title": "Praise Jah in the Moonlight",
+      "artist": "YG Marley",
+      "qoa": "YG Marley - Praise Jah in the Moonlight.qoa"
+    },
+    {
+      "title": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "qoa": "Natasha Bedingfield - Unwritten.qoa"
+    },
+    {
+      "title": "Lady Killers II (Christoph Andersson Remix)",
+      "artist": "G-Eazy",
+      "qoa": "G-Eazy - Lady Killers II (Christoph Andersson Remix).qoa"
+    },
+    {
+      "title": "Pretty Little Baby",
+      "artist": "Eloise",
+      "qoa": "Eloise - Pretty Little Baby.qoa"
+    },
+    {
+      "title": "Not My Problem (Jersey Club Remix)",
+      "artist": "Laila!",
+      "qoa": "Laila! - Not My Problem (Jersey Club Remix).qoa"
+    },
+    {
+      "title": "Ick \"he gave me the ick\"",
+      "artist": "Lay Bankz",
+      "qoa": "Lay Bankz - Ick _he gave me the ick_.qoa"
+    },
+    {
+      "title": "Angel Numbers / Ten Toes",
+      "artist": "Chris Brown",
+      "qoa": "Chris Brown - Angel Numbers _ Ten Toes.qoa"
+    },
+    {
+      "title": "Lil Boo Thang",
+      "artist": "Paul Russell",
+      "qoa": "Paul Russell - Lil Boo Thang.qoa"
+    },
+    {
+      "title": "Murder On The Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "qoa": "Sophie Ellis-Bextor - Murder On The Dancefloor.qoa"
+    },
+    {
+      "title": "MR. TAKE YA B*TCH",
+      "artist": "Lil Mabu & CHRISEAN ROCK",
+      "qoa": "Lil Mabu & CHRISEAN ROCK - MR. TAKE YA B_TCH.qoa"
+    },
+    {
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "qoa": "Tame Impala - Dracula.qoa"
+    },
+    {
+      "title": "Angels Like You",
+      "artist": "Miley Cyrus",
+      "qoa": "Miley Cyrus - Angels Like You.qoa"
+    },
+    {
+      "title": "act ii: date @ 8 \"I'll come and slide by 8pm\"",
+      "artist": "4Batz",
+      "qoa": "4Batz - act ii_ date @ 8 _I'll come and slide by 8pm_.qoa"
+    },
+    {
+      "title": "What It Is (Solo Version)",
+      "artist": "Doechii",
+      "qoa": "Doechii - What It Is (Solo Version).qoa"
+    },
+    {
+      "title": "Mad Love (sped up/TikTok Remix) Lyrics",
+      "artist": "Mabel",
+      "qoa": "Mabel - Mad Love (sped up_TikTok Remix) Lyrics.qoa"
+    },
+    {
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "qoa": "Joji - Glimpse of Us.qoa"
+    },
+    {
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "qoa": "Chappell Roan - Pink Pony Club.qoa"
+    },
+    {
+      "title": "White Keys",
+      "artist": "Dominic Fike",
+      "qoa": "Dominic Fike - White Keys.qoa"
+    },
+    {
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "qoa": "Gigi Perez - Sailor Song.qoa"
+    },
+    {
+      "title": "Stateside",
+      "artist": "PinkPantheress",
+      "qoa": "PinkPantheress - Stateside.qoa"
+    },
+    {
+      "title": "I See Why",
+      "artist": "Moneybagg Yo",
+      "qoa": "Moneybagg Yo - I See Why.qoa"
+    },
+    {
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "qoa": "The Neighbourhood - Sweater Weather.qoa"
+    },
+    {
+      "title": "Fetish",
+      "artist": "Nuke2Stiff",
+      "qoa": "Nuke2Stiff - Fetish.qoa"
+    },
+    {
+      "title": "Gut Genug",
+      "artist": "KITSCHKRIEG",
+      "qoa": "KITSCHKRIEG - Gut Genug.qoa"
+    },
+    {
+      "title": "Legendary Lovers",
+      "artist": "Katy Perry",
+      "qoa": "Katy Perry - Legendary Lovers.qoa"
+    },
+    {
+      "title": "Animal",
+      "artist": "KATSEYE",
+      "qoa": "KATSEYE - Animal.qoa"
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "artist": "@BillieEilish",
+      "qoa": "@BillieEilish - BIRDS OF A FEATHER.qoa"
+    },
+    {
+      "title": "RMB (Ring My Bell)",
+      "artist": "Aitch",
+      "qoa": "Aitch - RMB (Ring My Bell).qoa"
+    },
+    {
+      "title": "Olivia Dean",
+      "artist": "Man I Need",
+      "qoa": "Man I Need - Olivia Dean.qoa"
+    },
+    {
+      "title": "Yukon",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - Yukon.qoa"
+    },
+    {
+      "title": "DAISIES",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - DAISIES.qoa"
+    },
+    {
+      "title": "PASSO BEM SOLTO (SLOWED)",
+      "artist": "ATLXS",
+      "qoa": "ATLXS - PASSO BEM SOLTO (SLOWED).qoa"
+    },
+    {
+      "title": "Ma Tnsani (Yalla Habibi)",
+      "artist": "Vanco",
+      "qoa": "Vanco - Ma Tnsani (Yalla Habibi).qoa"
+    },
+    {
+      "title": "Jealous Type",
+      "artist": "Doja Cat",
+      "qoa": "Doja Cat - Jealous Type.qoa"
+    },
+    {
+      "title": "Embrace It | miss if you got a bumper then shake it",
+      "artist": "Ndotz",
+      "qoa": "Ndotz - Embrace It _ miss if you got a bumper then shake it.qoa"
+    },
+    {
+      "title": "Your Idol KPop Demon Hunters",
+      "artist": "Saja Boys",
+      "qoa": "Saja Boys - Your Idol KPop Demon Hunters.qoa"
+    },
+    {
+      "title": "End Of Beginning",
+      "artist": "Djo",
+      "qoa": "Djo - End Of Beginning.qoa"
+    },
+    {
+      "title": "I Love You",
+      "artist": "Céline Dion",
+      "qoa": "Céline Dion - I Love You.qoa"
+    },
+    {
+      "title": "A Couple Minutes",
+      "artist": "Olivia Dean",
+      "qoa": "Olivia Dean - A Couple Minutes.qoa"
+    },
+    {
+      "title": "Another Love",
+      "artist": "Tom Odell",
+      "qoa": "Tom Odell - Another Love.qoa"
+    },
+    {
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "qoa": "Katy Perry - The One That Got Away.qoa"
+    }
+  ]
+}
