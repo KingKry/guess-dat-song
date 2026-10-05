@@ -1,6 +1,12 @@
-{
-  "songs": [
-    { "title": "Onme", "artist": "", "file": "Onme.qoa", "offset": 0 },
-    { "title": "TAY", "artist": "", "file": "TAY.qoa", "offset": 0 }
-  ]
-}
+[
+  {
+    "title": "On Me",
+    "artist": "ARTISTE",
+    "qoa": "Onme.qoa"
+  },
+  {
+    "title": "TAY",
+    "artist": "ARTISTE",
+    "qoa": "TAY.qoa"
+  }
+]
