@@ -1,0 +1,824 @@
+{
+  "songs": [
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "qoa": "Ed Sheeran - Shape of You.qoa"
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson",
+      "qoa": "Mark Ronson - Uptown Funk.qoa"
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "qoa": "OneRepublic - Counting Stars.qoa"
+    },
+    {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "qoa": "Maroon 5 - Sugar.qoa"
+    },
+    {
+      "title": "Make Me Love You",
+      "artist": "Nickelback",
+      "qoa": "Nickelback - Make Me Love You.qoa"
+    },
+    {
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "qoa": "Katy Perry - Roar.qoa"
+    },
+    {
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "qoa": "Ed Sheeran - Perfect.qoa"
+    },
+    {
+      "title": "Dark Horse",
+      "artist": "Katy Perry",
+      "qoa": "Katy Perry - Dark Horse.qoa"
+    },
+    {
+      "title": "Sorry (PURPOSE : The Movement)",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - Sorry (PURPOSE _ The Movement).qoa"
+    },
+    {
+      "title": "Girls Like You",
+      "artist": "Maroon 5",
+      "qoa": "Maroon 5 - Girls Like You.qoa"
+    },
+    {
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - Blank Space.qoa"
+    },
+    {
+      "title": "Baby",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - Baby.qoa"
+    },
+    {
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "qoa": "Billie Eilish - BIRDS OF A FEATHER.qoa"
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - Shake It Off.qoa"
+    },
+    {
+      "title": "bit the apple",
+      "artist": "OHHARA",
+      "qoa": "OHHARA - bit the apple.qoa"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "qoa": "Ed Sheeran - Thinking Out Loud.qoa"
+    },
+    {
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "qoa": "Charlie Puth - We Don't Talk Anymore.qoa"
+    },
+    {
+      "title": "Closer",
+      "artist": "The Chainsmokers",
+      "qoa": "The Chainsmokers - Closer.qoa"
+    },
+    {
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - The Fate of Ophelia.qoa"
+    },
+    {
+      "title": "ONE DAY",
+      "artist": "ZLATA OGNEVICH",
+      "qoa": "ZLATA OGNEVICH - ONE DAY.qoa"
+    },
+    {
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "qoa": "Dua Lipa - New Rules.qoa"
+    },
+    {
+      "title": "The Lazy Song",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - The Lazy Song.qoa"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adele",
+      "qoa": "Adele - Hello.qoa"
+    },
+    {
+      "title": "Rockabye",
+      "artist": "Clean Bandit",
+      "qoa": "Clean Bandit - Rockabye.qoa"
+    },
+    {
+      "title": "Goin Gone",
+      "artist": "Shery M",
+      "qoa": "Shery M - Goin Gone.qoa"
+    },
+    {
+      "title": "Work from Home",
+      "artist": "Fifth Harmony",
+      "qoa": "Fifth Harmony - Work from Home.qoa"
+    },
+    {
+      "title": "Chandelier",
+      "artist": "Sia",
+      "qoa": "Sia - Chandelier.qoa"
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "qoa": "Adele - Rolling in the Deep.qoa"
+    },
+    {
+      "title": "Take Me Home",
+      "artist": "Nikita Soldatov",
+      "qoa": "Nikita Soldatov - Take Me Home.qoa"
+    },
+    {
+      "title": "A Thousand Years",
+      "artist": "Christina Perri",
+      "qoa": "Christina Perri - A Thousand Years.qoa"
+    },
+    {
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "qoa": "Benson Boone - Beautiful Things.qoa"
+    },
+    {
+      "title": "Treat You Better",
+      "artist": "Shawn Mendes",
+      "qoa": "Shawn Mendes - Treat You Better.qoa"
+    },
+    {
+      "title": "On The Floor",
+      "artist": "Jennifer Lopez, Pitbull",
+      "qoa": "Jennifer Lopez, Pitbull - On The Floor.qoa"
+    },
+    {
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "qoa": "Meghan Trainor - All About That Bass.qoa"
+    },
+    {
+      "title": "BAEWATCH",
+      "artist": "Yung Gravy",
+      "qoa": "Yung Gravy - BAEWATCH.qoa"
+    },
+    {
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "qoa": "Gotye - Somebody That I Used To Know.qoa"
+    },
+    {
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "qoa": "Alex Warren - Ordinary.qoa"
+    },
+    {
+      "title": "Rude",
+      "artist": "MAGIC!",
+      "qoa": "MAGIC! - Rude.qoa"
+    },
+    {
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "qoa": "Rihanna - Diamonds.qoa"
+    },
+    {
+      "title": "Frantic",
+      "artist": "Mochita",
+      "qoa": "Mochita - Frantic.qoa"
+    },
+    {
+      "title": "All of Me",
+      "artist": "John Legend",
+      "qoa": "John Legend - All of Me.qoa"
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "qoa": "Adele - Someone Like You.qoa"
+    },
+    {
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "qoa": "Sabrina Carpenter - Espresso.qoa"
+    },
+    {
+      "title": "That’s What I Like",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - That’s What I Like.qoa"
+    },
+    {
+      "title": "Take On Me",
+      "artist": "a-ha",
+      "qoa": "a-ha - Take On Me.qoa"
+    },
+    {
+      "title": "Side To Side",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - Side To Side.qoa"
+    },
+    {
+      "title": "Worth It",
+      "artist": "Fifth Harmony",
+      "qoa": "Fifth Harmony - Worth It.qoa"
+    },
+    {
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - hate that i made you love me.qoa"
+    },
+    {
+      "title": "Dusk Till Dawn",
+      "artist": "ZAYN",
+      "qoa": "ZAYN - Dusk Till Dawn.qoa"
+    },
+    {
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "qoa": "Ellie Goulding - Love Me Like You Do.qoa"
+    },
+    {
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - What Do You Mean_.qoa"
+    },
+    {
+      "title": "DANCE MONKEY",
+      "artist": "TONES AND I",
+      "qoa": "TONES AND I - DANCE MONKEY.qoa"
+    },
+    {
+      "title": "Risk It All",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - Risk It All.qoa"
+    },
+    {
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "qoa": "The Weeknd - Save Your Tears.qoa"
+    },
+    {
+      "title": "Love Again",
+      "artist": "MIRA",
+      "qoa": "MIRA - Love Again.qoa"
+    },
+    {
+      "title": "Just The Way You Are",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - Just The Way You Are.qoa"
+    },
+    {
+      "title": "Bang Bang",
+      "artist": "Jessie J",
+      "qoa": "Jessie J - Bang Bang.qoa"
+    },
+    {
+      "title": "Let Me Love You",
+      "artist": "DJ Snake",
+      "qoa": "DJ Snake - Let Me Love You.qoa"
+    },
+    {
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "qoa": "Sabrina Carpenter - Manchild.qoa"
+    },
+    {
+      "title": "Just Give Me a Reason",
+      "artist": "P!nk",
+      "qoa": "P!nk - Just Give Me a Reason.qoa"
+    },
+    {
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "qoa": "Lady Gaga - Bad Romance.qoa"
+    },
+    {
+      "title": "Havana (Vertical Video)",
+      "artist": "Camila Cabello",
+      "qoa": "Camila Cabello - Havana (Vertical Video).qoa"
+    },
+    {
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "qoa": "Dua Lipa - Training Season.qoa"
+    },
+    {
+      "title": "Cheap Thrills (Performance Edit)",
+      "artist": "Sia",
+      "qoa": "Sia - Cheap Thrills (Performance Edit).qoa"
+    },
+    {
+      "title": "I'm The One",
+      "artist": "DJ Khaled",
+      "qoa": "DJ Khaled - I'm The One.qoa"
+    },
+    {
+      "title": "Hips Don't Lie",
+      "artist": "Shakira",
+      "qoa": "Shakira - Hips Don't Lie.qoa"
+    },
+    {
+      "title": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "qoa": "RAYE - WHERE IS MY HUSBAND!.qoa"
+    },
+    {
+      "title": "Ring, Ring",
+      "artist": "MIRA",
+      "qoa": "MIRA - Ring, Ring.qoa"
+    },
+    {
+      "title": "Say You Won't Let Go",
+      "artist": "James Arthur",
+      "qoa": "James Arthur - Say You Won't Let Go.qoa"
+    },
+    {
+      "title": "Shallow (from A Star Is Born)",
+      "artist": "Lady Gaga, Bradley Cooper",
+      "qoa": "Lady Gaga, Bradley Cooper - Shallow (from A Star Is Born).qoa"
+    },
+    {
+      "title": "Swalla",
+      "artist": "Jason Derulo",
+      "qoa": "Jason Derulo - Swalla.qoa"
+    },
+    {
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "qoa": "Carly Rae Jepsen - Call Me Maybe.qoa"
+    },
+    {
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "qoa": "Zara Larsson - Midnight Sun.qoa"
+    },
+    {
+      "title": "Halo",
+      "artist": "Beyoncé",
+      "qoa": "Beyoncé - Halo.qoa"
+    },
+    {
+      "title": "Love Yourself (PURPOSE : The Movement)",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - Love Yourself (PURPOSE _ The Movement).qoa"
+    },
+    {
+      "title": "Attention",
+      "artist": "Charlie Puth",
+      "qoa": "Charlie Puth - Attention.qoa"
+    },
+    {
+      "title": "Never Gonna Give You Up (4K Remaster)",
+      "artist": "Rick Astley",
+      "qoa": "Rick Astley - Never Gonna Give You Up (4K Remaster).qoa"
+    },
+    {
+      "title": "blue",
+      "artist": "yung kai",
+      "qoa": "yung kai - blue.qoa"
+    },
+    {
+      "title": "7 Years",
+      "artist": "Lukas Graham",
+      "qoa": "Lukas Graham - 7 Years.qoa"
+    },
+    {
+      "title": "24K Magic",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - 24K Magic.qoa"
+    },
+    {
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "qoa": "Backstreet Boys - I Want It That Way.qoa"
+    },
+    {
+      "title": "Poker Face",
+      "artist": "Lady Gaga",
+      "qoa": "Lady Gaga - Poker Face.qoa"
+    },
+    {
+      "title": "Ladida",
+      "artist": "MIRA",
+      "qoa": "MIRA - Ladida.qoa"
+    },
+    {
+      "title": "WILDFLOWER (BILLIE BY FINNEAS)",
+      "artist": "Billie Eilish",
+      "qoa": "Billie Eilish - WILDFLOWER (BILLIE BY FINNEAS).qoa"
+    },
+    {
+      "title": "You Belong With Me",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - You Belong With Me.qoa"
+    },
+    {
+      "title": "Barbie Girl",
+      "artist": "Aqua",
+      "qoa": "Aqua - Barbie Girl.qoa"
+    },
+    {
+      "title": "What Makes You Beautiful",
+      "artist": "One Direction",
+      "qoa": "One Direction - What Makes You Beautiful.qoa"
+    },
+    {
+      "title": "Stitches",
+      "artist": "Shawn Mendes",
+      "qoa": "Shawn Mendes - Stitches.qoa"
+    },
+    {
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - I Just Might.qoa"
+    },
+    {
+      "title": "Bad Blood",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - Bad Blood.qoa"
+    },
+    {
+      "title": "Burn",
+      "artist": "Ellie Goulding",
+      "qoa": "Ellie Goulding - Burn.qoa"
+    },
+    {
+      "title": "7 rings",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - 7 rings.qoa"
+    },
+    {
+      "title": "Sign of the Times",
+      "artist": "Harry Styles",
+      "qoa": "Harry Styles - Sign of the Times.qoa"
+    },
+    {
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "qoa": "Olivia Dean - So Easy (To Fall In Love).qoa"
+    },
+    {
+      "title": "Timber",
+      "artist": "Pitbull, Ke$ha",
+      "qoa": "Pitbull, Ke$ha - Timber.qoa"
+    },
+    {
+      "title": "Too Good At Goodbyes",
+      "artist": "Sam Smith",
+      "qoa": "Sam Smith - Too Good At Goodbyes.qoa"
+    },
+    {
+      "title": "Duro",
+      "artist": "MIRA",
+      "qoa": "MIRA - Duro.qoa"
+    },
+    {
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "qoa": "Taylor Swift - Look What You Made Me Do.qoa"
+    },
+    {
+      "title": "Around the World (La La La La La)",
+      "artist": "A Touch Of Class",
+      "qoa": "A Touch Of Class - Around the World (La La La La La).qoa"
+    },
+    {
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - When I Was Your Man.qoa"
+    },
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "qoa": "Pharrell Williams - Happy.qoa"
+    },
+    {
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "qoa": "Ed Sheeran - Photograph.qoa"
+    },
+    {
+      "title": "No Lie",
+      "artist": "Sean Paul",
+      "qoa": "Sean Paul - No Lie.qoa"
+    },
+    {
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "qoa": "Hozier - Too Sweet.qoa"
+    },
+    {
+      "title": "Problem",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - Problem.qoa"
+    },
+    {
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "qoa": "Justin Timberlake - Mirrors.qoa"
+    },
+    {
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "qoa": "Shawn Mendes - There's Nothing Holdin' Me Back.qoa"
+    },
+    {
+      "title": "Symphony",
+      "artist": "Clean Bandit",
+      "qoa": "Clean Bandit - Symphony.qoa"
+    },
+    {
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "qoa": "Olivia Rodrigo - the cure.qoa"
+    },
+    {
+      "title": "Never Say Never",
+      "artist": "Justin Bieber",
+      "qoa": "Justin Bieber - Never Say Never.qoa"
+    },
+    {
+      "title": "Can't Remember to Forget You",
+      "artist": "Shakira",
+      "qoa": "Shakira - Can't Remember to Forget You.qoa"
+    },
+    {
+      "title": "Bad Booty",
+      "artist": "MIRA",
+      "qoa": "MIRA - Bad Booty.qoa"
+    },
+    {
+      "title": "La la la",
+      "artist": "Naughty Boy",
+      "qoa": "Naughty Boy - La la la.qoa"
+    },
+    {
+      "title": "Elastic Heart",
+      "artist": "Sia",
+      "qoa": "Sia - Elastic Heart.qoa"
+    },
+    {
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "qoa": "Ravyn Lenae - Love Me Not.qoa"
+    },
+    {
+      "title": "You Are The Reason (Duet Version)",
+      "artist": "Calum Scott, Leona Lewis",
+      "qoa": "Calum Scott, Leona Lewis - You Are The Reason (Duet Version).qoa"
+    },
+    {
+      "title": "Happier",
+      "artist": "Marshmello",
+      "qoa": "Marshmello - Happier.qoa"
+    },
+    {
+      "title": "Give Me Everything",
+      "artist": "Pitbull",
+      "qoa": "Pitbull - Give Me Everything.qoa"
+    },
+    {
+      "title": "Hymn For The Weekend",
+      "artist": "Coldplay",
+      "qoa": "Coldplay - Hymn For The Weekend.qoa"
+    },
+    {
+      "title": "Sapphire",
+      "artist": "Ed Sheeran",
+      "qoa": "Ed Sheeran - Sapphire.qoa"
+    },
+    {
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "qoa": "Coldplay - The Scientist.qoa"
+    },
+    {
+      "title": "Hot N Cold",
+      "artist": "Katy Perry",
+      "qoa": "Katy Perry - Hot N Cold.qoa"
+    },
+    {
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "qoa": "Lewis Capaldi - Someone You Loved.qoa"
+    },
+    {
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "qoa": "Billie Eilish - bad guy.qoa"
+    },
+    {
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "qoa": "Olivia Rodrigo - stupid song.qoa"
+    },
+    {
+      "title": "Smooth Criminal (Official Video - Shortened Version)",
+      "artist": "Michael Jackson",
+      "qoa": "Michael Jackson - Smooth Criminal (Official Video - Shortened Version).qoa"
+    },
+    {
+      "title": "Come With Me",
+      "artist": "MIRA",
+      "qoa": "MIRA - Come With Me.qoa"
+    },
+    {
+      "title": "Rain Over Me",
+      "artist": "Pitbull",
+      "qoa": "Pitbull - Rain Over Me.qoa"
+    },
+    {
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - no tears left to cry.qoa"
+    },
+    {
+      "title": "FRIENDS *OFFICIAL FRIENDZONE ANTHEM*",
+      "artist": "Marshmello & Anne-Marie",
+      "qoa": "Marshmello & Anne-Marie - FRIENDS _OFFICIAL FRIENDZONE ANTHEM_.qoa"
+    },
+    {
+      "title": "Locked Out Of Heaven",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - Locked Out Of Heaven.qoa"
+    },
+    {
+      "title": "Stay With Me",
+      "artist": "Sam Smith",
+      "qoa": "Sam Smith - Stay With Me.qoa"
+    },
+    {
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "qoa": "Bruno Mars - Grenade.qoa"
+    },
+    {
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "qoa": "Miley Cyrus - Flowers.qoa"
+    },
+    {
+      "title": "Stateside + Zara Larsson",
+      "artist": "PinkPantheress",
+      "qoa": "PinkPantheress - Stateside + Zara Larsson.qoa"
+    },
+    {
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "qoa": "Maroon 5 - One More Night.qoa"
+    },
+    {
+      "title": "Memories",
+      "artist": "Maroon 5",
+      "qoa": "Maroon 5 - Memories.qoa"
+    },
+    {
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "qoa": "Miley Cyrus - Wrecking Ball.qoa"
+    },
+    {
+      "title": "Stay",
+      "artist": "Rihanna",
+      "qoa": "Rihanna - Stay.qoa"
+    },
+    {
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "qoa": "Billie Eilish - CHIHIRO.qoa"
+    },
+    {
+      "title": "Two Feet",
+      "artist": "TOESUP, Smiley",
+      "qoa": "TOESUP, Smiley - Two Feet.qoa"
+    },
+    {
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "qoa": "One Direction - Night Changes.qoa"
+    },
+    {
+      "title": "PILLOWTALK",
+      "artist": "ZAYN",
+      "qoa": "ZAYN - PILLOWTALK.qoa"
+    },
+    {
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "qoa": "Britney Spears - ...Baby One More Time.qoa"
+    },
+    {
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "qoa": "Gracie Abrams - That’s So True.qoa"
+    },
+    {
+      "title": "We Found Love",
+      "artist": "Rihanna",
+      "qoa": "Rihanna - We Found Love.qoa"
+    },
+    {
+      "title": "Into You",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - Into You.qoa"
+    },
+    {
+      "title": "Without Me",
+      "artist": "Halsey",
+      "qoa": "Halsey - Without Me.qoa"
+    },
+    {
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "qoa": "Olivia Rodrigo - drop dead.qoa"
+    },
+    {
+      "title": "Another Love",
+      "artist": "Tom Odell",
+      "qoa": "Tom Odell - Another Love.qoa"
+    },
+    {
+      "title": "Love Me Again",
+      "artist": "John Newman",
+      "qoa": "John Newman - Love Me Again.qoa"
+    },
+    {
+      "title": "What's My Name?",
+      "artist": "Rihanna",
+      "qoa": "Rihanna - What's My Name_.qoa"
+    },
+    {
+      "title": "Two Feet (DJ Dark Remix)",
+      "artist": "TOESUP, Smiley",
+      "qoa": "TOESUP, Smiley - Two Feet (DJ Dark Remix).qoa"
+    },
+    {
+      "title": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "qoa": "Ariana Grande - we can't be friends (wait for your love).qoa"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "qoa": "Dua Lipa - Levitating.qoa"
+    },
+    {
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "qoa": "ABBA - Dancing Queen.qoa"
+    },
+    {
+      "title": "Say It Right",
+      "artist": "Nelly Furtado",
+      "qoa": "Nelly Furtado - Say It Right.qoa"
+    },
+    {
+      "title": "i like the way you kiss me",
+      "artist": "Artemas",
+      "qoa": "Artemas - i like the way you kiss me.qoa"
+    },
+    {
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "qoa": "One Direction - Drag Me Down.qoa"
+    },
+    {
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "qoa": "Katy Perry - The One That Got Away.qoa"
+    },
+    {
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "qoa": "sombr - My Body Isn't Ready.qoa"
+    },
+    {
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "qoa": "Nicki Minaj - Super Bass.qoa"
+    },
+    {
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "qoa": "Coldplay - A Sky Full Of Stars.qoa"
+    },
+    {
+      "title": "Solo",
+      "artist": "Clean Bandit",
+      "qoa": "Clean Bandit - Solo.qoa"
+    }
+  ]
+}
