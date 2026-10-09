@@ -1,14 +1,529 @@
 {
   "songs": [
     {
+      "title": "Main Theme",
+      "artist": "Grand Theft Auto 4",
+      "qoa": "Grand Theft Auto 4 - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "GTA San Andreas",
+      "qoa": "GTA San Andreas - Main Theme.qoa"
+    },
+    {
+      "title": "Ezio's Family",
+      "artist": "Assassin's Creed 2",
+      "qoa": "Assassin's Creed 2 - Ezio's Family.qoa"
+    },
+    {
+      "title": "Rules of Nature Extended",
+      "artist": "Metal Gear Rising: Revengeance",
+      "qoa": "Metal Gear Rising_ Revengeance - Rules of Nature Extended.qoa"
+    },
+    {
+      "title": "E1M1 - At Doom's Gate",
+      "artist": "Doom",
+      "qoa": "Doom - E1M1 - At Doom's Gate.qoa"
+    },
+    {
+      "title": "Gerudo Valley",
+      "artist": "The Legend of Zelda: Ocarina Of Time",
+      "qoa": "The Legend of Zelda_ Ocarina Of Time - Gerudo Valley.qoa"
+    },
+    {
+      "title": "Your Reality",
+      "artist": "Doki Doki Literature Club!",
+      "qoa": "Doki Doki Literature Club! - Your Reality.qoa"
+    },
+    {
+      "title": "Fly Me To The Moon",
+      "artist": "Bayonetta",
+      "qoa": "Bayonetta - Fly Me To The Moon.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "GUILE'S",
+      "qoa": "GUILE'S - Main Theme.qoa"
+    },
+    {
+      "title": "Jump Up, Super Star!",
+      "artist": "Super Mario Odyssey",
+      "qoa": "Super Mario Odyssey - Jump Up, Super Star!.qoa"
+    },
+    {
+      "title": "Hans Zimmer",
+      "artist": "Epilogue \"Main Theme\" - Crysis 2",
+      "qoa": "Epilogue _Main Theme_ - Crysis 2 - Hans Zimmer.qoa"
+    },
+    {
+      "title": "Green Hill Zone",
+      "artist": "Sonic The Hedgehog",
+      "qoa": "Sonic The Hedgehog - Green Hill Zone.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Super Smash Bros: Brawl",
+      "qoa": "Super Smash Bros_ Brawl - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "The Borderlands",
+      "qoa": "The Borderlands - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metal Gear Solid : The Best Is Yet To Come",
+      "qoa": "Metal Gear Solid _ The Best Is Yet To Come - Main Theme.qoa"
+    },
+    {
+      "title": "Ending Theme",
+      "artist": "Super Mario: World",
+      "qoa": "Super Mario_ World - Ending Theme.qoa"
+    },
+    {
+      "title": "Nuclear",
+      "artist": "Mike Oldfield",
+      "qoa": "Mike Oldfield - Nuclear.qoa"
+    },
+    {
+      "title": "Main Theme (Track #1)",
+      "artist": "Batman Arkham City",
+      "qoa": "Batman Arkham City - Main Theme (Track #1).qoa"
+    },
+    {
+      "title": "Floral Fury [Music]",
+      "artist": "Cuphead",
+      "qoa": "Cuphead - Floral Fury [Music].qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metal Gear Solid 2",
+      "qoa": "Metal Gear Solid 2 - Main Theme.qoa"
+    },
+    {
+      "title": "Bayonetta 2",
+      "artist": "Battle 1 - Moon River",
+      "qoa": "Battle 1 - Moon River - Bayonetta 2.qoa"
+    },
+    {
+      "title": "Invincible",
+      "artist": "World of Warcraft",
+      "qoa": "World of Warcraft - Invincible.qoa"
+    },
+    {
+      "title": "Main theme",
+      "artist": "Metal Gear Solid V: Big Boss Returns",
+      "qoa": "Metal Gear Solid V_ Big Boss Returns - Main theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Halo 3 Warthog Run Music FULL VERSION PERFECT QUALITY",
+      "qoa": "Halo 3 Warthog Run Music FULL VERSION PERFECT QUALITY - Main Theme.qoa"
+    },
+    {
+      "title": "The palm of a tiny hand",
+      "artist": "CLANNAD",
+      "qoa": "CLANNAD - The palm of a tiny hand.qoa"
+    },
+    {
+      "title": "It's Kill or Be Killed ~ Destroy Resort",
+      "artist": "No More Heroes 2",
+      "qoa": "No More Heroes 2 - It's Kill or Be Killed ~ Destroy Resort.qoa"
+    },
+    {
+      "title": "55 Your Contract Has Expired",
+      "artist": "A Hat in Time",
+      "qoa": "A Hat in Time - 55 Your Contract Has Expired.qoa"
+    },
+    {
       "title": "Sonic Heroes [OST]",
       "artist": "Sonic Heroes",
       "qoa": "Sonic Heroes - Sonic Heroes [OST].qoa"
     },
     {
+      "title": "The Legend of Zelda: Skyward Sword",
+      "artist": "Zelda's Lullaby",
+      "qoa": "Zelda's Lullaby - The Legend of Zelda_ Skyward Sword.qoa"
+    },
+    {
+      "title": "Dire, Dire Docks",
+      "artist": "Super Mario 64",
+      "qoa": "Super Mario 64 - Dire, Dire Docks.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metal Gear Solid",
+      "qoa": "Metal Gear Solid - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Techno Syndrome (‘97 Mix) by The Immortals",
+      "qoa": "Techno Syndrome (‘97 Mix) by The Immortals - Main Theme.qoa"
+    },
+    {
+      "title": "Flower Garden",
+      "artist": "Yoshi's Island",
+      "qoa": "Yoshi's Island - Flower Garden.qoa"
+    },
+    {
+      "title": "Theme of Ryu",
+      "artist": "Super Street Fighter IV",
+      "qoa": "Super Street Fighter IV - Theme of Ryu.qoa"
+    },
+    {
       "title": "English Intro Soundtrack",
       "artist": "Yakuza 0",
       "qoa": "Yakuza 0 - English Intro Soundtrack.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Vode An Gra'tua Cuun Ka'rta Tor",
+      "qoa": "Vode An Gra'tua Cuun Ka'rta Tor - Main Theme.qoa"
+    },
+    {
+      "title": "01 - Katamari on the Rocks",
+      "artist": "Katamari Damacy",
+      "qoa": "Katamari Damacy - 01 - Katamari on the Rocks.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Max Payne 2",
+      "qoa": "Max Payne 2 - Main Theme.qoa"
+    },
+    {
+      "title": "Main Menu Theme Song",
+      "artist": "Forza Horizon 4",
+      "qoa": "Forza Horizon 4 - Main Menu Theme Song.qoa"
+    },
+    {
+      "title": "Reach for the Stars",
+      "artist": "Sonic Colors",
+      "qoa": "Sonic Colors - Reach for the Stars.qoa"
+    },
+    {
+      "title": "Rush Hour",
+      "artist": "A Hat in Time [Nyakuza Metro]",
+      "qoa": "A Hat in Time [Nyakuza Metro] - Rush Hour.qoa"
+    },
+    {
+      "title": "Hyrule Field",
+      "artist": "The Legend of Zelda: Twilight Princess",
+      "qoa": "The Legend of Zelda_ Twilight Princess - Hyrule Field.qoa"
+    },
+    {
+      "title": "Forest Temple",
+      "artist": "The Legend of Zelda: Ocarina Of Time",
+      "qoa": "The Legend of Zelda_ Ocarina Of Time - Forest Temple.qoa"
+    },
+    {
+      "title": "Funk Goes On",
+      "artist": "龍が如く極",
+      "qoa": "龍が如く極 - Funk Goes On.qoa"
+    },
+    {
+      "title": "OFF",
+      "artist": "04 Pepper Steak",
+      "qoa": "04 Pepper Steak - OFF.qoa"
+    },
+    {
+      "title": "Pursuing My True Self",
+      "artist": "[Persona 4 ] 01",
+      "qoa": "[Persona 4 ] 01 - Pursuing My True Self.qoa"
+    },
+    {
+      "title": "Mirage Saloon Act 2",
+      "artist": "Sonic Mania",
+      "qoa": "Sonic Mania - Mirage Saloon Act 2.qoa"
+    },
+    {
+      "title": "Chase Theme",
+      "artist": "Assassin's Creed",
+      "qoa": "Assassin's Creed - Chase Theme.qoa"
+    },
+    {
+      "title": "Stickerbush Symphony [Restored]",
+      "artist": "Donkey Kong Country 2",
+      "qoa": "Donkey Kong Country 2 - Stickerbush Symphony [Restored].qoa"
+    },
+    {
+      "title": "\"Memory\" (Ib's Theme / Title Song)",
+      "artist": "Ib",
+      "qoa": "Ib - _Memory_ (Ib's Theme _ Title Song).qoa"
+    },
+    {
+      "title": "Staff Roll",
+      "artist": "Super Mario 64",
+      "qoa": "Super Mario 64 - Staff Roll.qoa"
+    },
+    {
+      "title": "Here's To You",
+      "artist": "Ennio Morricone (MGS4",
+      "qoa": "Ennio Morricone (MGS4 - Here's To You.qoa"
+    },
+    {
+      "title": "Bowser's Road",
+      "artist": "Super Mario 64",
+      "qoa": "Super Mario 64 - Bowser's Road.qoa"
+    },
+    {
+      "title": "Main Theme, Menu Music",
+      "artist": "Saints Row: The Third",
+      "qoa": "Saints Row_ The Third - Main Theme, Menu Music.qoa"
+    },
+    {
+      "title": "My Patch",
+      "artist": "LittleBigPlanet",
+      "qoa": "LittleBigPlanet - My Patch.qoa"
+    },
+    {
+      "title": "Gangplank Galleon [Restored]",
+      "artist": "Donkey Kong Country",
+      "qoa": "Donkey Kong Country - Gangplank Galleon [Restored].qoa"
+    },
+    {
+      "title": "Maya Fey ~ Turnabout Sisters Theme 2001",
+      "artist": "Phoenix Wright Ace Attorney",
+      "qoa": "Phoenix Wright Ace Attorney - Maya Fey ~ Turnabout Sisters Theme 2001.qoa"
+    },
+    {
+      "title": "Mining Melancholy [Restored]",
+      "artist": "Donkey Kong Country 2",
+      "qoa": "Donkey Kong Country 2 - Mining Melancholy [Restored].qoa"
+    },
+    {
+      "title": "I Think You Should Do As He Says (Track #7)",
+      "artist": "Batman Arkham City",
+      "qoa": "Batman Arkham City - I Think You Should Do As He Says (Track #7).qoa"
+    },
+    {
+      "title": "Summoner's Call",
+      "artist": "League of Legends",
+      "qoa": "League of Legends - Summoner's Call.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Killzone 2: Helghan Forever (",
+      "qoa": "Killzone 2_ Helghan Forever ( - Main Theme.qoa"
+    },
+    {
+      "title": "DANGANRONPA (DR Version)",
+      "artist": "Dangan Ronpa",
+      "qoa": "Dangan Ronpa - DANGANRONPA (DR Version).qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Sonic Mega Collection Intro",
+      "qoa": "Sonic Mega Collection Intro - Main Theme.qoa"
+    },
+    {
+      "title": "Bust",
+      "artist": "Half-Life: Opposing Force",
+      "qoa": "Half-Life_ Opposing Force - Bust.qoa"
+    },
+    {
+      "title": "Godot ~ The Fragrance of Black Coffee",
+      "artist": "Phoenix Wright: Trials and Tribulations",
+      "qoa": "Phoenix Wright_ Trials and Tribulations - Godot ~ The Fragrance of Black Coffee.qoa"
+    },
+    {
+      "title": "Piranha Plant's Lullaby (Piano)",
+      "artist": "Super Mario 64",
+      "qoa": "Super Mario 64 - Piranha Plant's Lullaby (Piano).qoa"
+    },
+    {
+      "title": "Kass's Complete Theme",
+      "artist": "The Legend of Zelda: Breath of the Wild",
+      "qoa": "The Legend of Zelda_ Breath of the Wild - Kass's Complete Theme.qoa"
+    },
+    {
+      "title": "20 We're Long Hua Expedition",
+      "artist": "Yakuza 0",
+      "qoa": "Yakuza 0 - 20 We're Long Hua Expedition.qoa"
+    },
+    {
+      "title": "Lost Chair (Main Theme)",
+      "artist": "The Witch's House #3",
+      "qoa": "The Witch's House #3 - Lost Chair (Main Theme).qoa"
+    },
+    {
+      "title": "Detention Center ~ Jailers' Elegy",
+      "artist": "Phoenix Wright Ace Attorney",
+      "qoa": "Phoenix Wright Ace Attorney - Detention Center ~ Jailers' Elegy.qoa"
+    },
+    {
+      "title": "Tough Guy Alert! DX",
+      "artist": "Mario and Luigi Bowser's Inside Story + Bowser Jr.'s Journey",
+      "qoa": "Mario and Luigi Bowser's Inside Story + Bowser Jr.'s Journey - Tough Guy Alert! DX.qoa"
+    },
+    {
+      "title": "\"The Steel Samurai\" Theme",
+      "artist": "PW:AA",
+      "qoa": "PW_AA - _The Steel Samurai_ Theme.qoa"
+    },
+    {
+      "title": "01",
+      "artist": "Music Box 7 [Mogeko Castle /BGM",
+      "qoa": "Music Box 7 [Mogeko Castle _BGM - 01.qoa"
+    },
+    {
+      "title": "01 Main Theme",
+      "artist": "A Hat in Time",
+      "qoa": "A Hat in Time - 01 Main Theme.qoa"
+    },
+    {
+      "title": "Mask☆deMasque ~ Pleeeeease Listen!",
+      "artist": "Phoenix Wright: Trials and Tribulations",
+      "qoa": "Phoenix Wright_ Trials and Tribulations - Mask☆deMasque ~ Pleeeeease Listen!.qoa"
+    },
+    {
+      "title": "Chapter 1's Main Theme",
+      "artist": "Corpse Party: Blood Covered",
+      "qoa": "Corpse Party_ Blood Covered - Chapter 1's Main Theme.qoa"
+    },
+    {
+      "title": "Ice Cave Chant [Restored]",
+      "artist": "Donkey Kong Country",
+      "qoa": "Donkey Kong Country - Ice Cave Chant [Restored].qoa"
+    },
+    {
+      "title": "Luke Atmey ~ I Just Want Love",
+      "artist": "Phoenix Wright: Trials and Tribulations",
+      "qoa": "Phoenix Wright_ Trials and Tribulations - Luke Atmey ~ I Just Want Love.qoa"
+    },
+    {
+      "title": "Blissful",
+      "artist": "de Blob",
+      "qoa": "de Blob - Blissful.qoa"
+    },
+    {
+      "title": "Ema Skye ~ Scientific Detective",
+      "artist": "Apollo Justice: Ace Attorney",
+      "qoa": "Apollo Justice_ Ace Attorney - Ema Skye ~ Scientific Detective.qoa"
+    },
+    {
+      "title": "\"The Little Doll's Dream\" (Game Over)",
+      "artist": "Ib",
+      "qoa": "Ib - _The Little Doll's Dream_ (Game Over).qoa"
+    },
+    {
+      "title": "Bandit Camp Music",
+      "artist": "STALKER: Clear Sky",
+      "qoa": "STALKER_ Clear Sky - Bandit Camp Music.qoa"
+    },
+    {
+      "title": "Fawful is There DX",
+      "artist": "Mario and Luigi Bowser's Inside Story + Bowser Jr.'s Journey",
+      "qoa": "Mario and Luigi Bowser's Inside Story + Bowser Jr.'s Journey - Fawful is There DX.qoa"
+    },
+    {
+      "title": "Welcome to Mafia Town",
+      "artist": "A Hat in Time",
+      "qoa": "A Hat in Time - Welcome to Mafia Town.qoa"
+    },
+    {
+      "title": "Dojo & Puffle Training Area",
+      "artist": "Club Penguin: Elite Penguin Force DS",
+      "qoa": "Club Penguin_ Elite Penguin Force DS - Dojo & Puffle Training Area.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Shantae: Half-Genie Hero **: (Dance Through the Danger)",
+      "qoa": "Shantae_ Half-Genie Hero ___ (Dance Through the Danger) - Main Theme.qoa"
+    },
+    {
+      "title": "Crash Bandicoot N. Sane Trilogy: Crash 3",
+      "artist": "N. Tropy",
+      "qoa": "N. Tropy - Crash Bandicoot N. Sane Trilogy_ Crash 3.qoa"
+    },
+    {
+      "title": "Magic Crafter's Home",
+      "artist": "Spyro 1",
+      "qoa": "Spyro 1 - Magic Crafter's Home.qoa"
+    },
+    {
+      "title": "Submap Shuffle [Restored]",
+      "artist": "Donkey Kong Country 3",
+      "qoa": "Donkey Kong Country 3 - Submap Shuffle [Restored].qoa"
+    },
+    {
+      "title": "Alleys and Gullies",
+      "artist": "Toy Story 2",
+      "qoa": "Toy Story 2 - Alleys and Gullies.qoa"
+    },
+    {
+      "title": "Mill Fever [Restored]",
+      "artist": "Donkey Kong Country 3",
+      "qoa": "Donkey Kong Country 3 - Mill Fever [Restored].qoa"
+    },
+    {
+      "title": "Main theme",
+      "artist": "Fire Emblem 25th Anniversary Concert",
+      "qoa": "Fire Emblem 25th Anniversary Concert - Main theme.qoa"
+    },
+    {
+      "title": "Luigi's Mansion 3 Music",
+      "artist": "6F: Castle MacFrights",
+      "qoa": "6F_ Castle MacFrights - Luigi's Mansion 3 Music.qoa"
+    },
+    {
+      "title": "02 Carniveral Wacky Joker Action",
+      "artist": "LEGO Batman2: DC Super Herores",
+      "qoa": "LEGO Batman2_ DC Super Herores - 02 Carniveral Wacky Joker Action.qoa"
+    },
+    {
+      "title": "Objective (Pirates)",
+      "artist": "Lego Battles",
+      "qoa": "Lego Battles - Objective (Pirates).qoa"
+    },
+    {
+      "title": "Marias Theme",
+      "artist": "Mad Father",
+      "qoa": "Mad Father - Marias Theme.qoa"
+    },
+    {
+      "title": "File Selection",
+      "artist": "The Legendary Starfy 54",
+      "qoa": "The Legendary Starfy 54 - File Selection.qoa"
+    },
+    {
+      "title": "big",
+      "artist": "Parappa the rapper 2",
+      "qoa": "Parappa the rapper 2 - big.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Yooka-Laylee and the Impossible Lair : Underwater Saunter",
+      "qoa": "Yooka-Laylee and the Impossible Lair _ Underwater Saunter - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Agent K.K. (Live Version, Animal Crossing New Horizons)",
+      "qoa": "Agent K.K. (Live Version, Animal Crossing New Horizons) - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Zack & Wiki BGM 01: The Beginning",
+      "qoa": "Zack & Wiki BGM 01_ The Beginning - Main Theme.qoa"
+    },
+    {
+      "title": "Id (Serenity) / \"Farewell...my friends...\"",
+      "artist": "Fire Emblem: Awakening",
+      "qoa": "Fire Emblem_ Awakening - Id (Serenity) _ _Farewell...my friends..._.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Mix Ore ~ 01",
+      "qoa": "Mix Ore ~ 01 - Main Theme.qoa"
+    },
+    {
+      "title": "EPIC VERSION",
+      "artist": "Elden Ring Main Theme (The Final Battle)",
+      "qoa": "Elden Ring Main Theme (The Final Battle) - EPIC VERSION.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Halo",
+      "qoa": "Halo - Main Theme.qoa"
     },
     {
       "title": "11. BFG Division",
@@ -21,9 +536,44 @@
       "qoa": "The Immortals - Techno Syndrome (Mortal Kombat).qoa"
     },
     {
+      "title": "GTA V",
+      "artist": "Welcome to Los Santos - Intro",
+      "qoa": "Welcome to Los Santos - Intro - GTA V.qoa"
+    },
+    {
       "title": "MEGALOVANIA",
       "artist": "Toby Fox",
       "qoa": "Toby Fox - MEGALOVANIA.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Original Tetris",
+      "qoa": "Original Tetris - Main Theme.qoa"
+    },
+    {
+      "title": "Sword of Destiny - Main Theme",
+      "artist": "The Witcher 3: Wild Hunt",
+      "qoa": "The Witcher 3_ Wild Hunt - Sword of Destiny - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Super Mario Bros.",
+      "qoa": "Super Mario Bros. - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Zelda",
+      "qoa": "Zelda - Main Theme.qoa"
+    },
+    {
+      "title": "Assassin's Creed IV Black Flag Main Theme",
+      "artist": "Assassin's Creed IV Black Flag",
+      "qoa": "Assassin's Creed IV Black Flag - Assassin's Creed IV Black Flag Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Battlefield 1942",
+      "qoa": "Battlefield 1942 - Main Theme.qoa"
     },
     {
       "title": "God of War Ragnarök | God of War Ragnarök (Original Soundtrack)",
@@ -36,6 +586,21 @@
       "qoa": "Woody Jackson - American Venom.qoa"
     },
     {
+      "title": "Opening Titles (Hans Zimmer)",
+      "artist": "Call of Duty: Modern Warfare 2",
+      "qoa": "Call of Duty_ Modern Warfare 2 - Opening Titles (Hans Zimmer).qoa"
+    },
+    {
+      "title": "Gustavo Santaolalla",
+      "artist": "The Last of Us (Main Theme) | The Last of Us (Video",
+      "qoa": "The Last of Us (Main Theme) _ The Last of Us (Video - Gustavo Santaolalla.qoa"
+    },
+    {
+      "title": "Mii Channel Theme",
+      "artist": "Nintendo Wii",
+      "qoa": "Nintendo Wii - Mii Channel Theme.qoa"
+    },
+    {
       "title": "3 - Subwoofer Lullaby",
       "artist": "Minecraft Volume Alpha",
       "qoa": "Minecraft Volume Alpha - 3 - Subwoofer Lullaby.qoa"
@@ -46,6 +611,21 @@
       "qoa": "Gaijin Entertainment - Advance Australia.qoa"
     },
     {
+      "title": "Main Theme",
+      "artist": "Super Smash Bros. 4",
+      "qoa": "Super Smash Bros. 4 - Main Theme.qoa"
+    },
+    {
+      "title": "Behold a Pale Horse",
+      "artist": "Halo 3",
+      "qoa": "Halo 3 - Behold a Pale Horse.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Bioshock : 02 Welcome to Rapture",
+      "qoa": "Bioshock _ 02 Welcome to Rapture - Main Theme.qoa"
+    },
+    {
       "title": "Right Trigger Warning",
       "artist": "Mick Gordon",
       "qoa": "Mick Gordon - Right Trigger Warning.qoa"
@@ -54,6 +634,16 @@
       "title": "Burn in Hell",
       "artist": "Andrew Hulshult",
       "qoa": "Andrew Hulshult - Burn in Hell.qoa"
+    },
+    {
+      "title": "Overworld Theme",
+      "artist": "Super Mario Bros 2 (NES)",
+      "qoa": "Super Mario Bros 2 (NES) - Overworld Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Overture",
+      "qoa": "Overture - Main Theme.qoa"
     },
     {
       "title": "DARK SOULS Ⅲ",
@@ -67,8 +657,33 @@
     },
     {
       "title": "Main Theme",
+      "artist": "Metal Slug 2 Judgment",
+      "qoa": "Metal Slug 2 Judgment - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Doom 3 Music",
+      "qoa": "Doom 3 Music - Main Theme.qoa"
+    },
+    {
+      "title": "Kiss In The Dark",
+      "artist": "Metal Slug 3",
+      "qoa": "Metal Slug 3 - Kiss In The Dark.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "[Red Dead Redemption]",
+      "qoa": "[Red Dead Redemption] - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
       "artist": "Gareth Coker",
       "qoa": "Gareth Coker - Main Theme.qoa"
+    },
+    {
+      "title": "Sonic Mayhem - Big Gun",
+      "artist": "Quake 2",
+      "qoa": "Quake 2 - Sonic Mayhem - Big Gun.qoa"
     },
     {
       "title": "At Doom's Gate",
@@ -76,9 +691,129 @@
       "qoa": "Andrey Avkhimovich - At Doom's Gate.qoa"
     },
     {
+      "title": "Andrew Hulshult",
+      "artist": "Goroth (Quake Champions",
+      "qoa": "Goroth (Quake Champions - Andrew Hulshult.qoa"
+    },
+    {
       "title": "Grabbag",
       "artist": "Andrey Avkhimovich",
       "qoa": "Andrey Avkhimovich - Grabbag.qoa"
+    },
+    {
+      "title": "Far Cry 3",
+      "artist": "Main Theme ( )",
+      "qoa": "Main Theme ( ) - Far Cry 3.qoa"
+    },
+    {
+      "title": "Make It Bun Dem",
+      "artist": "Far Cry 3",
+      "qoa": "Far Cry 3 - Make It Bun Dem.qoa"
+    },
+    {
+      "title": "The Crowfather",
+      "artist": "Darksiders II",
+      "qoa": "Darksiders II - The Crowfather.qoa"
+    },
+    {
+      "title": "The Abyssal Plains",
+      "artist": "Darksiders 2",
+      "qoa": "Darksiders 2 - The Abyssal Plains.qoa"
+    },
+    {
+      "title": "Epic Extended Theme: \"What Are You Prepared To Sacrifice\" (Music Video)",
+      "artist": "Crysis 3",
+      "qoa": "Crysis 3 - Epic Extended Theme_ _What Are You Prepared To Sacrifice_ (Music Video).qoa"
+    },
+    {
+      "title": "Resolution",
+      "artist": "Crysis 2",
+      "qoa": "Crysis 2 - Resolution.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Halo 4 #1 Awakening",
+      "qoa": "Halo 4 #1 Awakening - Main Theme.qoa"
+    },
+    {
+      "title": "Halo Theme",
+      "artist": "Halo",
+      "qoa": "Halo - Halo Theme.qoa"
+    },
+    {
+      "title": "The Shootist",
+      "artist": "Red Dead Redemption [] #02",
+      "qoa": "Red Dead Redemption [] #02 - The Shootist.qoa"
+    },
+    {
+      "title": "Menu Music",
+      "artist": "Far Cry",
+      "qoa": "Far Cry - Menu Music.qoa"
+    },
+    {
+      "title": "Crossing the Styx (Track #4)",
+      "artist": "Dante's Inferno (CD2)",
+      "qoa": "Dante's Inferno (CD2) - Crossing the Styx (Track #4).qoa"
+    },
+    {
+      "title": "Bleeding Charon",
+      "artist": "Dante's Inferno [] [CD1] #06",
+      "qoa": "Dante's Inferno [] [CD1] #06 - Bleeding Charon.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "GTA San Andreas CJ rap",
+      "qoa": "GTA San Andreas CJ rap - Main Theme.qoa"
+    },
+    {
+      "title": "01 Nate's Theme 3.0",
+      "artist": "Uncharted 3 Drake's Deception™",
+      "qoa": "Uncharted 3 Drake's Deception™ - 01 Nate's Theme 3.0.qoa"
+    },
+    {
+      "title": "02 Courtyard Chaos",
+      "artist": "Uncharted 3 Drake's Deception™",
+      "qoa": "Uncharted 3 Drake's Deception™ - 02 Courtyard Chaos.qoa"
+    },
+    {
+      "title": "Uncharted 3 Drake's Deception™",
+      "artist": "03 Atlantis of the Sands",
+      "qoa": "03 Atlantis of the Sands - Uncharted 3 Drake's Deception™.qoa"
+    },
+    {
+      "title": "The Heavy - How you like me now",
+      "artist": "Borderlands 2: Ending song",
+      "qoa": "Borderlands 2_ Ending song - The Heavy - How you like me now.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Borderlands 2 Dubstep",
+      "qoa": "Borderlands 2 Dubstep - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "God of War 2 Soundtrack",
+      "qoa": "God of War 2 Soundtrack - Main Theme.qoa"
+    },
+    {
+      "title": "Overture - Main Theme",
+      "artist": "God of War 3",
+      "qoa": "God of War 3 - Overture - Main Theme.qoa"
+    },
+    {
+      "title": "Kratos vs Zeus Battle Song",
+      "artist": "God of War 3",
+      "qoa": "God of War 3 - Kratos vs Zeus Battle Song.qoa"
+    },
+    {
+      "title": "TEARS [Full Version]",
+      "artist": "Max Payne 3 HEALTH",
+      "qoa": "Max Payne 3 HEALTH - TEARS [Full Version].qoa"
+    },
+    {
+      "title": "The Prison",
+      "artist": "Prince of Persia The Sands of Time",
+      "qoa": "Prince of Persia The Sands of Time - The Prison.qoa"
     },
     {
       "title": "Horizon Trailer Music [Half Moon Run - Full Circle]",
@@ -86,9 +821,189 @@
       "qoa": "Assassin's Creed 4 Black Flag - Horizon Trailer Music [Half Moon Run - Full Circle].qoa"
     },
     {
+      "title": "Main Theme",
+      "artist": "Prince Of Persia: The Forgotten Sands",
+      "qoa": "Prince Of Persia_ The Forgotten Sands - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Prince of Persia-Warrior Within -Conflict at the entrance",
+      "qoa": "Prince of Persia-Warrior Within -Conflict at the entrance - Main Theme.qoa"
+    },
+    {
+      "title": "Healing Grounds",
+      "artist": "Prince Of Persia (2008)",
+      "qoa": "Prince Of Persia (2008) - Healing Grounds.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Prince of Persia -Welcome to Persia",
+      "qoa": "Prince of Persia -Welcome to Persia - Main Theme.qoa"
+    },
+    {
       "title": "01. Nascence",
       "artist": "Journey Soundtrack (Austin Wintory)",
       "qoa": "Journey Soundtrack (Austin Wintory) - 01. Nascence.qoa"
+    },
+    {
+      "title": "#01 Welcome Within",
+      "artist": "Official Sound Track",
+      "qoa": "Official Sound Track - #01 Welcome Within.qoa"
+    },
+    {
+      "title": "Dragonborn HQ",
+      "artist": "Skyrim",
+      "qoa": "Skyrim - Dragonborn HQ.qoa"
+    },
+    {
+      "title": "Heroic Assault",
+      "artist": "Gears Of War 2",
+      "qoa": "Gears Of War 2 - Heroic Assault.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "FULL Dead Island Trailer Music (Without Effects) HD",
+      "qoa": "FULL Dead Island Trailer Music (Without Effects) HD - Main Theme.qoa"
+    },
+    {
+      "title": "Hero's Abroad",
+      "artist": "Medal of Honor 3",
+      "qoa": "Medal of Honor 3 - Hero's Abroad.qoa"
+    },
+    {
+      "title": "Spreading Hope",
+      "artist": "The Lord of the Rings The Battle for Middle-Earth 01",
+      "qoa": "The Lord of the Rings The Battle for Middle-Earth 01 - Spreading Hope.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Heroes of Might and Magic 3 Music: Combat 4",
+      "qoa": "Heroes of Might and Magic 3 Music_ Combat 4 - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Heroes of Might and Magic 3 Music: Combat 2",
+      "qoa": "Heroes of Might and Magic 3 Music_ Combat 2 - Main Theme.qoa"
+    },
+    {
+      "title": "Heroes of Might and Magic 4 Music",
+      "artist": "Hope",
+      "qoa": "Hope - Heroes of Might and Magic 4 Music.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Battlefield 3",
+      "qoa": "Battlefield 3 - Main Theme.qoa"
+    },
+    {
+      "title": "Main Menu Theme 1080HD",
+      "artist": "Guild Wars 2",
+      "qoa": "Guild Wars 2 - Main Menu Theme 1080HD.qoa"
+    },
+    {
+      "title": "Story Trailer Music #1",
+      "artist": "The Order: 1886",
+      "qoa": "The Order_ 1886 - Story Trailer Music #1.qoa"
+    },
+    {
+      "title": "Main Menu Theme",
+      "artist": "Destiny",
+      "qoa": "Destiny - Main Menu Theme.qoa"
+    },
+    {
+      "title": "Pentagon",
+      "artist": "CoD: Black Ops",
+      "qoa": "CoD_ Black Ops - Pentagon.qoa"
+    },
+    {
+      "title": "Hunt or Be Hunted - Pre-Order OST",
+      "artist": "The Witcher 3: Wild Hunt",
+      "qoa": "The Witcher 3_ Wild Hunt - Hunt or Be Hunted - Pre-Order OST.qoa"
+    },
+    {
+      "title": "The Song Of The Sword Dancer",
+      "artist": "The Witcher 3: Wild Hunt",
+      "qoa": "The Witcher 3_ Wild Hunt - The Song Of The Sword Dancer.qoa"
+    },
+    {
+      "title": "Silver For Monsters...",
+      "artist": "The Witcher 3: Wild Hunt",
+      "qoa": "The Witcher 3_ Wild Hunt - Silver For Monsters.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "TESO : #1 For Blood, for Glory, for Honor",
+      "qoa": "TESO _ #1 For Blood, for Glory, for Honor - Main Theme.qoa"
+    },
+    {
+      "title": "Let's GO",
+      "artist": "Counter-Strike: Global Offensive",
+      "qoa": "Counter-Strike_ Global Offensive - Let's GO.qoa"
+    },
+    {
+      "title": "Magic Duels Origins Theme",
+      "artist": "Menu sound - Intro Music",
+      "qoa": "Menu sound - Intro Music - Magic Duels Origins Theme.qoa"
+    },
+    {
+      "title": "Icarus (Main Theme)",
+      "artist": "Deus Ex: Human Revolution",
+      "qoa": "Deus Ex_ Human Revolution - Icarus (Main Theme).qoa"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "artist": "Hearts of Stone - Main",
+      "qoa": "Hearts of Stone - Main - The Witcher 3_ Wild Hunt.qoa"
+    },
+    {
+      "title": "Busy Earnin'",
+      "artist": "Tales From the Borderlands Episode 1",
+      "qoa": "Tales From the Borderlands Episode 1 - Busy Earnin'.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Tales From The Borderlands Episode 2 intro/credit song (Kiss the sky)",
+      "qoa": "Tales From The Borderlands Episode 2 intro_credit song (Kiss the sky) - Main Theme.qoa"
+    },
+    {
+      "title": "Pieces of the People We Love",
+      "artist": "Tales From the Borderlands Episode 3",
+      "qoa": "Tales From the Borderlands Episode 3 - Pieces of the People We Love.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Tales From The Borderlands Episode 5 intro Song (Retrograde)",
+      "qoa": "Tales From The Borderlands Episode 5 intro Song (Retrograde) - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Tales From The Borderlands Episode 5 End Credits Song (My Silver Lining)",
+      "qoa": "Tales From The Borderlands Episode 5 End Credits Song (My Silver Lining) - Main Theme.qoa"
+    },
+    {
+      "title": "True Colors, Richie Kohan Feat - Faux Fix",
+      "artist": "Dark Souls III",
+      "qoa": "Dark Souls III - True Colors, Richie Kohan Feat - Faux Fix.qoa"
+    },
+    {
+      "title": "War",
+      "artist": "Alan Wake : Poets of the Fall",
+      "qoa": "Alan Wake _ Poets of the Fall - War.qoa"
+    },
+    {
+      "title": "Gehrman, The First Hunter",
+      "artist": "Bloodborne",
+      "qoa": "Bloodborne - Gehrman, The First Hunter.qoa"
+    },
+    {
+      "title": "Roller Mobster",
+      "artist": "Hotline Miami 2: Wrong Number",
+      "qoa": "Hotline Miami 2_ Wrong Number - Roller Mobster.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Far Cry 4 Punjabi Song(Kidnapping Paul)",
+      "qoa": "Far Cry 4 Punjabi Song(Kidnapping Paul) - Main Theme.qoa"
     },
     {
       "title": "Baba Yetu",
@@ -106,9 +1021,159 @@
       "qoa": "Titanfall 2 Soundtrack - Main Theme Song!.qoa"
     },
     {
+      "title": "Inner Light",
+      "artist": "Destiny 2",
+      "qoa": "Destiny 2 - Inner Light.qoa"
+    },
+    {
+      "title": "Journey (featuring Kronos Quartet)",
+      "artist": "Destiny 2",
+      "qoa": "Destiny 2 - Journey (featuring Kronos Quartet).qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Chrono Cross Opening HD",
+      "qoa": "Chrono Cross Opening HD - Main Theme.qoa"
+    },
+    {
+      "title": "Sneakman",
+      "artist": "Jet Grind Radio",
+      "qoa": "Jet Grind Radio - Sneakman.qoa"
+    },
+    {
+      "title": "Killing Moon (Arranged)",
+      "artist": "Akuma's Stage",
+      "qoa": "Akuma's Stage - Killing Moon (Arranged).qoa"
+    },
+    {
+      "title": "Overture",
+      "artist": "Halo: Reach",
+      "qoa": "Halo_ Reach - Overture.qoa"
+    },
+    {
+      "title": "T11: On To Grasstown",
+      "artist": "Cave Story",
+      "qoa": "Cave Story - T11_ On To Grasstown.qoa"
+    },
+    {
+      "title": "T33: Running Hell (Curly's Theme / Sacred Ground)",
+      "artist": "Cave Story",
+      "qoa": "Cave Story - T33_ Running Hell (Curly's Theme _ Sacred Ground).qoa"
+    },
+    {
+      "title": "Watchtower",
+      "artist": "Destiny 2: Forsaken",
+      "qoa": "Destiny 2_ Forsaken - Watchtower.qoa"
+    },
+    {
       "title": "Inferno (Cinder's Theme)",
       "artist": "Mick Gordon",
       "qoa": "Mick Gordon - Inferno (Cinder's Theme).qoa"
+    },
+    {
+      "title": "Queen's Oracle",
+      "artist": "Destiny 2: Forsaken",
+      "qoa": "Destiny 2_ Forsaken - Queen's Oracle.qoa"
+    },
+    {
+      "title": "A Land of War and Poetry (feat. Jeremy Soule)",
+      "artist": "TESO: Morrowind Main Theme",
+      "qoa": "TESO_ Morrowind Main Theme - A Land of War and Poetry (feat. Jeremy Soule).qoa"
+    },
+    {
+      "title": "Arrival",
+      "artist": "Halo 4",
+      "qoa": "Halo 4 - Arrival.qoa"
+    },
+    {
+      "title": "Leaving Earth",
+      "artist": "Mass Effect 3",
+      "qoa": "Mass Effect 3 - Leaving Earth.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Dragon's Dogma : 1-43 End Of The Struggle",
+      "qoa": "Dragon's Dogma _ 1-43 End Of The Struggle - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Nascence",
+      "qoa": "Nascence - Main Theme.qoa"
+    },
+    {
+      "title": "Reverie",
+      "artist": "[Persona 4 ] 39",
+      "qoa": "[Persona 4 ] 39 - Reverie.qoa"
+    },
+    {
+      "title": "Champion Cynthia Battle Music",
+      "artist": "Pokémon Diamond, Pearl & Platinum",
+      "qoa": "Pokémon Diamond, Pearl & Platinum - Champion Cynthia Battle Music.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metal Gear Solid 3 Snake Eater : Snake Eater",
+      "qoa": "Metal Gear Solid 3 Snake Eater _ Snake Eater - Main Theme.qoa"
+    },
+    {
+      "title": "Aquatic Ambience [Restored]",
+      "artist": "Donkey Kong Country",
+      "qoa": "Donkey Kong Country - Aquatic Ambience [Restored].qoa"
+    },
+    {
+      "title": "MGS",
+      "artist": "Calling To The Night",
+      "qoa": "Calling To The Night - MGS.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": ".hack//infection skeith",
+      "qoa": ".hack__infection skeith - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Sonic Adventure 2 \"City Escape\" Music request",
+      "qoa": "Sonic Adventure 2 _City Escape_ Music request - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Infamous Second Son [17/22]-Wavelength",
+      "qoa": "Infamous Second Son [17_22]-Wavelength - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Infamous Second Son [16/22]-Abigail Walker",
+      "qoa": "Infamous Second Son [16_22]-Abigail Walker - Main Theme.qoa"
+    },
+    {
+      "title": "Qualify Results",
+      "artist": "Gran Turismo",
+      "qoa": "Gran Turismo - Qualify Results.qoa"
+    },
+    {
+      "title": "Race Menu",
+      "artist": "Gran Turismo",
+      "qoa": "Gran Turismo - Race Menu.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Halo 3 -10. The Storm. This Is The Hour",
+      "qoa": "Halo 3 -10. The Storm. This Is The Hour - Main Theme.qoa"
+    },
+    {
+      "title": "\"The Last Array\"",
+      "artist": "Destiny 8",
+      "qoa": "Destiny 8 - _The Last Array_.qoa"
+    },
+    {
+      "title": "We are all Guests upon the Land",
+      "artist": "The Banner Saga",
+      "qoa": "The Banner Saga - We are all Guests upon the Land.qoa"
+    },
+    {
+      "title": "Cleric Beast",
+      "artist": "Bloodborne",
+      "qoa": "Bloodborne - Cleric Beast.qoa"
     },
     {
       "title": "We All Lift Together (From \"Warframe\")",
@@ -116,9 +1181,179 @@
       "qoa": "Keith Power - We All Lift Together (From _Warframe_).qoa"
     },
     {
+      "title": "Sacrifice",
+      "artist": "Halo 4 vol. 2",
+      "qoa": "Halo 4 vol. 2 - Sacrifice.qoa"
+    },
+    {
+      "title": "117",
+      "artist": "Halo 4",
+      "qoa": "Halo 4 - 117.qoa"
+    },
+    {
+      "title": "March Of The Empire",
+      "artist": "Freedom Fighters",
+      "qoa": "Freedom Fighters - March Of The Empire.qoa"
+    },
+    {
+      "title": "Thunder Run",
+      "artist": "Battlefield 3",
+      "qoa": "Battlefield 3 - Thunder Run.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Quake 3 Arena Quad Damage",
+      "qoa": "Quake 3 Arena Quad Damage - Main Theme.qoa"
+    },
+    {
+      "title": "KR Hyperblast Redux",
+      "artist": "Unreal Tournament 2004",
+      "qoa": "Unreal Tournament 2004 - KR Hyperblast Redux.qoa"
+    },
+    {
+      "title": "Champion Rival Battle Music",
+      "artist": "Pokémon FireRed & LeafGreen",
+      "qoa": "Pokémon FireRed & LeafGreen - Champion Rival Battle Music.qoa"
+    },
+    {
+      "title": "Dearly Beloved",
+      "artist": "Kingdom Hearts 3",
+      "qoa": "Kingdom Hearts 3 - Dearly Beloved.qoa"
+    },
+    {
+      "title": "Ho-oh Battle",
+      "artist": "Pokémon HeartGold",
+      "qoa": "Pokémon HeartGold - Ho-oh Battle.qoa"
+    },
+    {
+      "title": "Giratina Battle Theme",
+      "artist": "Pokemon Platinum",
+      "qoa": "Pokemon Platinum - Giratina Battle Theme.qoa"
+    },
+    {
+      "title": "Wally Battle Music",
+      "artist": "Pokémon Omega Ruby & Alpha Sapphire",
+      "qoa": "Pokémon Omega Ruby & Alpha Sapphire - Wally Battle Music.qoa"
+    },
+    {
+      "title": "Team Aqua & Magma Leader Battle Music",
+      "artist": "Pokémon Omega Ruby & Alpha Sapphire",
+      "qoa": "Pokémon Omega Ruby & Alpha Sapphire - Team Aqua & Magma Leader Battle Music.qoa"
+    },
+    {
+      "title": "Aqua/Magma Leader Battle Music",
+      "artist": "Pokémon UltraSun & UltraMoon",
+      "qoa": "Pokémon UltraSun & UltraMoon - Aqua_Magma Leader Battle Music.qoa"
+    },
+    {
+      "title": "Colress Battle Music",
+      "artist": "Pokémon Sun & Moon",
+      "qoa": "Pokémon Sun & Moon - Colress Battle Music.qoa"
+    },
+    {
+      "title": "Legendary Boss Battle: Rock Version!",
+      "artist": "Pokémon Super Mystery Dungeon",
+      "qoa": "Pokémon Super Mystery Dungeon - Legendary Boss Battle_ Rock Version!.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "PAYDAY 2: Troubles Always Inbound [Assault]",
+      "qoa": "PAYDAY 2_ Troubles Always Inbound [Assault] - Main Theme.qoa"
+    },
+    {
+      "title": "Arnhem Knights",
+      "artist": "Medal Of Honor Frontline song",
+      "qoa": "Medal Of Honor Frontline song - Arnhem Knights.qoa"
+    },
+    {
+      "title": "Song of Storms",
+      "artist": "Zelda",
+      "qoa": "Zelda - Song of Storms.qoa"
+    },
+    {
+      "title": "Street Fighter 5",
+      "artist": "Ken's Theme (SFV",
+      "qoa": "Ken's Theme (SFV - Street Fighter 5.qoa"
+    },
+    {
       "title": "The Instinct (Killer Instinct)",
       "artist": "Mick Gordon",
       "qoa": "Mick Gordon - The Instinct (Killer Instinct).qoa"
+    },
+    {
+      "title": "Wave Ocean (The Inlet)",
+      "artist": "Sonic the Hedgehog",
+      "qoa": "Sonic the Hedgehog - Wave Ocean (The Inlet).qoa"
+    },
+    {
+      "title": "Megalith (Agnus Dei)",
+      "artist": "(with lyrics) - 37/48 - Ace Combat 4",
+      "qoa": "(with lyrics) - 37_48 - Ace Combat 4 - Megalith (Agnus Dei).qoa"
+    },
+    {
+      "title": ", Techno Industry",
+      "artist": "Descent II Redbook",
+      "qoa": "Descent II Redbook - , Techno Industry.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "FFXIV OST Eden Boss",
+      "qoa": "FFXIV OST Eden Boss - Main Theme.qoa"
+    },
+    {
+      "title": "Florence + The Machine",
+      "artist": "Stand By Me | Studio Version | Lyric Video | Final Fantasy XV | Tribute HD",
+      "qoa": "Stand By Me _ Studio Version _ Lyric Video _ Final Fantasy XV _ Tribute HD - Florence + The Machine.qoa"
+    },
+    {
+      "title": "C418",
+      "artist": "Subwoofer Lullaby - Minecraft Volume Alpha",
+      "qoa": "Subwoofer Lullaby - Minecraft Volume Alpha - C418.qoa"
+    },
+    {
+      "title": "OFFICIAL MAIN THEME",
+      "artist": "Battlefield 4",
+      "qoa": "Battlefield 4 - OFFICIAL MAIN THEME.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Pokemon Ruby/Sapphire/Emerald- Littleroot Town",
+      "qoa": "Pokemon Ruby_Sapphire_Emerald- Littleroot Town - Main Theme.qoa"
+    },
+    {
+      "title": "Stal",
+      "artist": "Minecraft Music Disc",
+      "qoa": "Minecraft Music Disc - Stal.qoa"
+    },
+    {
+      "title": "MEDIC!",
+      "artist": "Team Fortress 2",
+      "qoa": "Team Fortress 2 - MEDIC!.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metroid Prime 3: Corruption Music- Title Screen Intro",
+      "qoa": "Metroid Prime 3_ Corruption Music- Title Screen Intro - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metroid Prime 3: Corruption Music- Rundas Battle",
+      "qoa": "Metroid Prime 3_ Corruption Music- Rundas Battle - Main Theme.qoa"
+    },
+    {
+      "title": "Drunken Whaler",
+      "artist": "Dishonored",
+      "qoa": "Dishonored - Drunken Whaler.qoa"
+    },
+    {
+      "title": "Trident",
+      "artist": "Halo 3 (songs not on",
+      "qoa": "Halo 3 (songs not on - Trident.qoa"
+    },
+    {
+      "title": "Warthog Music",
+      "artist": "RedvsBlue",
+      "qoa": "RedvsBlue - Warthog Music.qoa"
     },
     {
       "title": "Dragonsong (From \"Final Fantasy XIV\")",
@@ -126,9 +1361,164 @@
       "qoa": "Nobuo Uematsu - Dragonsong (From _Final Fantasy XIV_).qoa"
     },
     {
+      "title": "Main Theme",
+      "artist": "Jump Up Superstar! (Intro w/ Vocals & End jingle)",
+      "qoa": "Jump Up Superstar! (Intro w_ Vocals & End jingle) - Main Theme.qoa"
+    },
+    {
+      "title": "Gunslinger",
+      "artist": "Destiny 2: Forsaken",
+      "qoa": "Destiny 2_ Forsaken - Gunslinger.qoa"
+    },
+    {
+      "title": "The Edge Of Soul (Soul Edge Opening Theme)",
+      "artist": "Namco Sound Team",
+      "qoa": "Namco Sound Team - The Edge Of Soul (Soul Edge Opening Theme).qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Old RuneScape : Sea Shanty2",
+      "qoa": "Old RuneScape _ Sea Shanty2 - Main Theme.qoa"
+    },
+    {
+      "title": "Lady Maria (The Old Hunters)",
+      "artist": "Bloodborne",
+      "qoa": "Bloodborne - Lady Maria (The Old Hunters).qoa"
+    },
+    {
+      "title": "The Tower of Dolls",
+      "artist": "Castlevania Order of Ecclesia",
+      "qoa": "Castlevania Order of Ecclesia - The Tower of Dolls.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Castlevania Music: DANCE OF ILLUSIONS COLLECTION",
+      "qoa": "Castlevania Music_ DANCE OF ILLUSIONS COLLECTION - Main Theme.qoa"
+    },
+    {
+      "title": "Super Mario 64",
+      "artist": "Dire, Dire Docks ( Version)",
+      "qoa": "Dire, Dire Docks ( Version) - Super Mario 64.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "MMBN5 Nebula Gray Battle Music Remix (2000 subs special)",
+      "qoa": "MMBN5 Nebula Gray Battle Music Remix (2000 subs special) - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Old RuneScape : Castlewars",
+      "qoa": "Old RuneScape _ Castlewars - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Dragon Dogma Dark Arisen OST ~Japanese",
+      "qoa": "Dragon Dogma Dark Arisen OST ~Japanese - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Skyrim: The Song of the Dragonborn (with lyrics)",
+      "qoa": "Skyrim_ The Song of the Dragonborn (with lyrics) - Main Theme.qoa"
+    },
+    {
+      "title": "Riders on the Storm)",
+      "artist": "Need for speed Underground 2 (Snoop dogg feat. the doors",
+      "qoa": "Need for speed Underground 2 (Snoop dogg feat. the doors - Riders on the Storm).qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Castlevania SOTN: Lost Painting",
+      "qoa": "Castlevania SOTN_ Lost Painting - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Metroid Prime Music- Phendrana Drifts",
+      "qoa": "Metroid Prime Music- Phendrana Drifts - Main Theme.qoa"
+    },
+    {
+      "title": "The Clock Tower",
+      "artist": "Castlevania",
+      "qoa": "Castlevania - The Clock Tower.qoa"
+    },
+    {
+      "title": "Simple and Clean (Full Version)",
+      "artist": "Kingdom Hearts Intro Song",
+      "qoa": "Kingdom Hearts Intro Song - Simple and Clean (Full Version).qoa"
+    },
+    {
+      "title": "To Galaxy",
+      "artist": "Halo 4",
+      "qoa": "Halo 4 - To Galaxy.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Megaman X: Spark Mandrill",
+      "qoa": "Megaman X_ Spark Mandrill - Main Theme.qoa"
+    },
+    {
+      "title": "Gluttony Fang (Hazama's Theme)",
+      "artist": "BlazBlue: Cross Tag Battle",
+      "qoa": "BlazBlue_ Cross Tag Battle - Gluttony Fang (Hazama's Theme).qoa"
+    },
+    {
+      "title": "Stand Unrivaled",
+      "artist": "Blazblue Central Fiction",
+      "qoa": "Blazblue Central Fiction - Stand Unrivaled.qoa"
+    },
+    {
+      "title": "Bang Shishigami's Theme Gale",
+      "artist": "BB",
+      "qoa": "BB - Bang Shishigami's Theme Gale.qoa"
+    },
+    {
+      "title": "Title Screen Theme",
+      "artist": "Solstice Music (NES)",
+      "qoa": "Solstice Music (NES) - Title Screen Theme.qoa"
+    },
+    {
+      "title": "Blow me away )",
+      "artist": "Halo (Music Video",
+      "qoa": "Halo (Music Video - Blow me away ).qoa"
+    },
+    {
       "title": "Sonic and the Black Knight [OST]",
       "artist": "With Me",
       "qoa": "With Me - Sonic and the Black Knight [OST].qoa"
+    },
+    {
+      "title": "Team Galactic Boss Cyrus Battle Music",
+      "artist": "Pokémon UltraSun & UltraMoon",
+      "qoa": "Pokémon UltraSun & UltraMoon - Team Galactic Boss Cyrus Battle Music.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Castle Crashers-Music Pirate Ship [Chaoz Japan]",
+      "qoa": "Castle Crashers-Music Pirate Ship [Chaoz Japan] - Main Theme.qoa"
+    },
+    {
+      "title": "Kingdom Hearts 3",
+      "artist": "Xion",
+      "qoa": "Xion - Kingdom Hearts 3.qoa"
+    },
+    {
+      "title": "Music of the Spheres",
+      "artist": "02 The Union (Mercury)",
+      "qoa": "02 The Union (Mercury) - Music of the Spheres.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Runes Of Magic OST- Logar",
+      "qoa": "Runes Of Magic OST- Logar - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "metin 2 -enter the east",
+      "qoa": "metin 2 -enter the east - Main Theme.qoa"
+    },
+    {
+      "title": "ONI Sword Base",
+      "artist": "Halo Reach",
+      "qoa": "Halo Reach - ONI Sword Base.qoa"
     },
     {
       "title": "1984 - Panama",
@@ -136,9 +1526,154 @@
       "qoa": "Van Halen - 1984 - Panama.qoa"
     },
     {
+      "title": "All Gone (No Escape) Game Version Extended",
+      "artist": "The Last of Us",
+      "qoa": "The Last of Us - All Gone (No Escape) Game Version Extended.qoa"
+    },
+    {
+      "title": "Get It Now",
+      "artist": "Bless",
+      "qoa": "Bless - Get It Now.qoa"
+    },
+    {
+      "title": "Reshiram & Zekrom Battle Music",
+      "artist": "Pokémon Omega Ruby & Alpha Sapphire",
+      "qoa": "Pokémon Omega Ruby & Alpha Sapphire - Reshiram & Zekrom Battle Music.qoa"
+    },
+    {
+      "title": "Credits [Saliva - After Me]",
+      "artist": "The Thing",
+      "qoa": "The Thing - Credits [Saliva - After Me].qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "phantasy star universe dark falz memorial HQ",
+      "qoa": "phantasy star universe dark falz memorial HQ - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Bastion-Build That Wall (Zia's",
+      "qoa": "Bastion-Build That Wall (Zia's - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "The Halo 3 Warthog Run: The Complete Extended Version",
+      "qoa": "The Halo 3 Warthog Run_ The Complete Extended Version - Main Theme.qoa"
+    },
+    {
+      "title": "\"Air Traffic Control\"",
+      "artist": "Halo 3: ODST Unreleased",
+      "qoa": "Halo 3_ ODST Unreleased - _Air Traffic Control_.qoa"
+    },
+    {
+      "title": "Agency Bio Lab Escape",
+      "artist": "Syphon Filter 2",
+      "qoa": "Syphon Filter 2 - Agency Bio Lab Escape.qoa"
+    },
+    {
+      "title": "01. This is What You Are",
+      "artist": "WARFRAME",
+      "qoa": "WARFRAME - 01. This is What You Are.qoa"
+    },
+    {
+      "title": "Those Who Fight Further FFVII",
+      "artist": "The Black Mages",
+      "qoa": "The Black Mages - Those Who Fight Further FFVII.qoa"
+    },
+    {
+      "title": "Grandmaster's theme",
+      "artist": "Pokemon TCG",
+      "qoa": "Pokemon TCG - Grandmaster's theme.qoa"
+    },
+    {
+      "title": "Alect Squadron, Armada, Operation X",
+      "artist": "16/25 - Ace Combat X",
+      "qoa": "16_25 - Ace Combat X - Alect Squadron, Armada, Operation X.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "FFXIV OST Heavensward Battle",
+      "qoa": "FFXIV OST Heavensward Battle - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Timesplitters Future Perfect Mexican Mission",
+      "qoa": "Timesplitters Future Perfect Mexican Mission - Main Theme.qoa"
+    },
+    {
       "title": "17. Apotheosis",
       "artist": "Journey Soundtrack (Austin Wintory)",
       "qoa": "Journey Soundtrack (Austin Wintory) - 17. Apotheosis.qoa"
+    },
+    {
+      "title": "Toneless",
+      "artist": "Anata o Yurusanai",
+      "qoa": "Anata o Yurusanai - Toneless.qoa"
+    },
+    {
+      "title": "Trailer Song | Carpenter Brut - Turbo Killer",
+      "artist": "Wolfenstein Youngblood",
+      "qoa": "Wolfenstein Youngblood - Trailer Song _ Carpenter Brut - Turbo Killer.qoa"
+    },
+    {
+      "title": "04 Rain (Deference for Darkness)",
+      "artist": "Halo 3 ODST",
+      "qoa": "Halo 3 ODST - 04 Rain (Deference for Darkness).qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Tetris 99",
+      "qoa": "Tetris 99 - Main Theme.qoa"
+    },
+    {
+      "title": "Intro - PSX",
+      "artist": "Tenchu: Stealth Assassins",
+      "qoa": "Tenchu_ Stealth Assassins - Intro - PSX.qoa"
+    },
+    {
+      "title": "The Fortune of Edward Kenway",
+      "artist": "Assassin's Creed IV Black Flag",
+      "qoa": "Assassin's Creed IV Black Flag - The Fortune of Edward Kenway.qoa"
+    },
+    {
+      "title": "Freedom Dive ↓",
+      "artist": "XI",
+      "qoa": "XI - Freedom Dive ↓.qoa"
+    },
+    {
+      "title": "Dam",
+      "artist": "Goldeneye 007",
+      "qoa": "Goldeneye 007 - Dam.qoa"
+    },
+    {
+      "title": "Gourmet Race (N64)",
+      "artist": "Super Smash Bros Melee",
+      "qoa": "Super Smash Bros Melee - Gourmet Race (N64).qoa"
+    },
+    {
+      "title": "Theme Of Laura",
+      "artist": "Silent Hill 2",
+      "qoa": "Silent Hill 2 - Theme Of Laura.qoa"
+    },
+    {
+      "title": "Dr. Wily's Castle",
+      "artist": "Mega Man 2",
+      "qoa": "Mega Man 2 - Dr. Wily's Castle.qoa"
+    },
+    {
+      "title": "The Path",
+      "artist": "The Last of Us 22",
+      "qoa": "The Last of Us 22 - The Path.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Croc Soundtrack: Croc",
+      "qoa": "Croc Soundtrack_ Croc - Main Theme.qoa"
+    },
+    {
+      "title": "Main Theme",
+      "artist": "Phantasy star online, Opening",
+      "qoa": "Phantasy star online, Opening - Main Theme.qoa"
     }
   ]
 }
